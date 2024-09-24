@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate computer science student at UIC</h3>
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Software Developer specializing in React and NodeJS frameworks. Currently studying at UIC .</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
