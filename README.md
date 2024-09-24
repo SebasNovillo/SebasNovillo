@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate software developer from Ecuador currently living in the Unite States of America</h3>
+<h3 align="center">A passionate computer science student at UIC</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
