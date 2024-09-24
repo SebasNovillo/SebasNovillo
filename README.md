@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Software Developer specializing in React and NodeJS frameworks. Currently studying at UIC .</p>
+    <p>I'm a Software Developer specializing in React and NodeJS frameworks. Currently studying Computer Science at UIC .</p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
