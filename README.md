@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Software Developer specializing in React and NodeJS frameworks. Currently studying Computer Science at UIC .</p>
+    <p>Hi there! 👋 I'm Sebastian, a passionate web designer with a focus on creating visually appealing and user-friendly websites.
+I primarily work with HTML, CSS, and JavaScript to bring engaging and dynamic designs to life.
+
+I'm always exploring new techniques and best practices to enhance my skills and deliver exceptional web experiences. Feel free to check out my projects and get in touch if you'd like to collaborate or learn more!</p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
