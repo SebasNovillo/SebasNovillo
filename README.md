@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Web Designer and Front-End Developer with a passion for creating visually engaging and responsive websites. I focus on using HTML, CSS, and JavaScript to build dynamic and user-friendly interfaces.
-    
-    💻 I’m always exploring new design trends and techniques to enhance my skill set and bring innovative ideas to life.
-    🎨 I love transforming complex ideas into functional and aesthetic digital experiences.
-    
-    Feel free to explore my repositories, and let's connect if you'd like to collaborate or discuss front-end development!
+    <p>
+        I'm a <strong>Web Designer</strong> and <strong>Front-End Developer</strong> passionate about creating visually engaging and responsive websites. I specialize in using <strong>HTML, CSS, and JavaScript</strong> to build dynamic, user-friendly interfaces that provide seamless user experiences.
+    </p>
+    <p>
+        💡 I’m always exploring new design trends and technologies to enhance my skill set and deliver cutting-edge solutions.<br>
+        🎨 I love transforming complex ideas into functional, aesthetic digital experiences.
+    </p>
+    <p>
+        Feel free to explore my repositories, and let's connect if you'd like to collaborate or discuss front-end development!
     </p>
     
 </div>
