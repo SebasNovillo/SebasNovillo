@@ -21,12 +21,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
@@ -48,17 +42,23 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
     </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Pinned Projects:</h3>
 <ul>
     <li>
-        <strong><a href="https://github.com/SebasNovillo/JS-To-Do-List">JS-To-Do List</a></strong>  
-        - A responsive task management tool built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. Includes local storage and a clean UI.
-    </li>
-    <li>
         <strong><a href="https://github.com/SebasNovillo/User-Management-System">User Management System</a></strong>  
         - A CRUD app using <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong> for managing user data efficiently.
+    </li>
+    <li>
+        <strong><a href="https://github.com/SebasNovillo/JS-To-Do-List">JS-To-Do List</a></strong>  
+        - A responsive task management tool built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. Includes local storage and a clean UI.
     </li>
     <li>
         <strong><a href="https://github.com/SebasNovillo/Tech-News-Website">Tech News Website</a></strong>  
