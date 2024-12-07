@@ -5,7 +5,7 @@
         I'm a <strong>Full-Stack Developer</strong> passionate about creating scalable and efficient web applications. My expertise lies in using <strong>JavaScript</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong> to build dynamic backends, along with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>React</strong> to craft engaging front-end experiences.
     </p>
     <p>
-        💡 I’m always exploring the latest technologies to stay ahead in web development and create innovative solutions.<br>
+        💡 I’m always exploring the latest technologies to stay ahead in web development and create innovative solutions.<br><br>
         🎯 <strong>Currently Seeking:</strong> A backend-focused internship where I can enhance my skills in RESTful APIs, cloud-based architectures, and database management while contributing to impactful projects.
     </p>
     <p>
