@@ -182,9 +182,3 @@ A collaborative event discovery application featuring location-based browsing, e
 </td>
 </tr>
 </table>
-
-<br>
-
----
-
-<div align="center">
