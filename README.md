@@ -1,181 +1,201 @@
 <div align="center">
 
-# Hi, I'm Sebastian 👋
+# Sebastian Novillo
 
-### Software Engineer | Full-Stack & Mobile Development
+### SOFTWARE ENGINEER
 
-Building practical, maintainable, and user-centered software solutions.
+**Full-Stack Development · Mobile Development · Backend Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-novillo-rey/)
-[![GitHub](https://img.shields.io/badge/GitHub-SebasNovillo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SebasNovillo)
+*Building software solutions from intuitive interfaces to reliable backend systems.*
 
-</div>
+<br>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineer** with a strong foundation in computer science, primarily focused on **Full-Stack Web Development** and **Mobile Development**.
-
-My experience includes developing responsive web applications, implementing RESTful APIs, designing database-driven systems, and working with modern development frameworks.
-
-Beyond web and mobile development, I have experience in backend engineering, database management, and data analysis using Python.
-
-I hold a **Bachelor of Science in Computer Science** from the University of Illinois Chicago, with a specialization in Software Engineering.
-
-I enjoy solving complex problems, exploring new technologies, and building software that combines functionality, performance, and thoughtful design.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,dart" alt="Programming Languages" />
-</p>
-
-`JavaScript` `TypeScript` `Python` `Java` `C++` `C` `Dart` `SQL`
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend Technologies" />
-</p>
-
-`React` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies" />
-</p>
-
-`Node.js` `Express.js` `FastAPI` `REST APIs`
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Mobile Development Technologies" />
-</p>
-
-`Flutter` `Android (Java)`
-
-### Databases & Cloud Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,firebase" alt="Databases and Services" />
-</p>
-
-`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Supabase` `Firebase`
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development Tools" />
-</p>
-
-`Git` `GitHub` `VS Code` `Postman` `Figma`
-
-### Software Engineering & Additional Knowledge
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Software Design & Development
-- Relational Database Design
-- API Design & Integration
-- Data Analysis with Python & Pandas
-- Statistical Analysis
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 Roomly — Space Booking Platform
-
-A full-stack web application designed to simplify workspace discovery, reservations, and availability management.
-
-**Tech Stack:** Next.js · TypeScript · Supabase · PostgreSQL
-
-**Key Features:**
-- User authentication and account management.
-- Space discovery with advanced filtering options.
-- Booking creation and cancellation.
-- Reservation conflict prevention.
-- Responsive user dashboard.
-- Database-driven availability management.
-
-[View Repository](https://github.com/SebasNovillo/roomly)
-
----
-
-### 🏢 Northstar Architecture — Architecture Studio Website
-
-A responsive architecture studio website built with modern frontend technologies, emphasizing reusable components, intuitive navigation, and clean user interfaces.
-
-**Tech Stack:** Next.js · TypeScript · Tailwind CSS
-
-**Key Features:**
-- Responsive layouts and navigation.
-- Dynamic project pages.
-- Project filtering and categorization.
-- Reusable UI components.
-- Accessible interface patterns.
-
-[View Repository](https://github.com/SebasNovillo/northstar-architecture)
-
----
-
-### 🌊 OceanSight — Ocean Monitoring & Analytics Platform
-
-A collaborative software engineering project focused on ocean monitoring, sensor data visualization, and anomaly tracking.
-
-**Tech Stack:** React · FastAPI · SQLite
-
-**Key Contributions:**
-- Developed frontend components and interactive interfaces.
-- Integrated frontend functionality with backend APIs.
-- Implemented data visualization and monitoring features.
-- Contributed to application workflows and user interactions.
-- Collaborated with a development team throughout the project.
-
----
-
-### 📍 PlanItOut — Event Discovery Platform
-
-A collaborative web application designed to help users discover, create, and manage events through location-based functionality.
-
-**Tech Stack:** React · Firebase · Google Maps API
-
-**Key Contributions:**
-- Developed frontend features for event discovery and browsing.
-- Integrated location-based functionality using Google Maps.
-- Implemented event creation and registration interfaces.
-- Contributed to responsive UI components.
-- Collaborated on user interaction and event management workflows.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SebasNovillo&show_icons=true&theme=github_dark&hide_border=true" alt="Sebastian's GitHub Stats" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-novillo-rey/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebasNovillo)
 
 </div>
 
+<br>
+
 ---
 
-## 🤝 Connect With Me
+## 👨‍💻 About
 
-I'm always interested in connecting with fellow developers, exploring new technologies, and discussing software engineering opportunities.
+I'm a **Software Engineer** focused on **Full-Stack Web and Mobile Development**, with experience building responsive applications, RESTful APIs, and database-driven systems.
 
-- **LinkedIn:** [Sebastian Novillo](https://www.linkedin.com/in/sebastian-novillo-rey/)
-- **GitHub:** [SebasNovillo](https://github.com/SebasNovillo)
+My technical interests extend to backend engineering, software architecture, database design, and data analysis. I enjoy exploring new technologies and developing practical solutions that balance functionality, performance, and user experience.
+
+<br>
+
+## ⚡ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,dart&perline=7" alt="Programming languages" />
+
+<br>
+
+JavaScript · TypeScript · Python · Java · C++ · C · Dart · SQL
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi&perline=6" alt="Web development technologies" />
+
+<br>
+
+React · Next.js · Tailwind CSS · Node.js · Express · FastAPI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Mobile & Databases
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,postgres,mysql,mongodb,sqlite&perline=6" alt="Mobile and database technologies" />
+
+<br>
+
+Flutter · Android · PostgreSQL · MySQL · MongoDB · SQLite
+
+</td>
+<td width="50%" valign="top">
+
+### Platforms & Tools
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vscode,postman,figma&perline=7" alt="Development platforms and tools" />
+
+<br>
+
+Supabase · Firebase · Git · GitHub · VS Code · Postman · Figma
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Selected Projects
+
+A selection of applications and software projects I've developed, both independently and collaboratively.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Roomly
+
+**Full-Stack Space Booking Platform**
+
+A workspace reservation application featuring authentication, space discovery, booking management, and real-time availability validation.
+
+**Built with**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Highlights**
+
+- Authentication and user accounts
+- Booking and cancellation workflows
+- Reservation conflict prevention
+
+[**Explore Project →**](https://github.com/SebasNovillo/roomly)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Northstar Architecture
+
+**Architecture Studio Website**
+
+A modern architecture studio website featuring responsive layouts, dynamic project pages, and intuitive navigation.
+
+**Built with**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Highlights**
+
+- Dynamic project pages
+- Project filtering and categorization
+- Responsive interface design
+
+[**Explore Project →**](https://github.com/SebasNovillo/northstar-architecture)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 OceanSight
+
+**Ocean Monitoring & Analytics**
+
+A collaborative ocean monitoring platform designed to visualize sensor information, track anomalies, and support data-driven analysis.
+
+**Built with**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**My Contributions**
+
+- Frontend interface development
+- API integration
+- Monitoring dashboards and data visualization
+
+</td>
+<td width="50%" valign="top">
+
+### 📍 PlanItOut
+
+**Event Discovery Platform**
+
+A collaborative event discovery application featuring location-based browsing, event creation, and registration workflows.
+
+**Built with**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+**My Contributions**
+
+- Frontend development
+- Event discovery interfaces
+- Google Maps integration
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 <div align="center">
+
+### Let's Connect
+
+Interested in software engineering, new technologies, and building meaningful digital experiences.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-novillo-rey/)
+
+<br>
 
 *Always learning. Always building.*
 
