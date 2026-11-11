@@ -188,15 +188,3 @@ A collaborative event discovery application featuring location-based browsing, e
 ---
 
 <div align="center">
-
-### Let's Connect
-
-Interested in software engineering, new technologies, and building meaningful digital experiences.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-novillo-rey/)
-
-<br>
-
-*Always learning. Always building.*
-
-</div>
